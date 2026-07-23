@@ -1,0 +1,501 @@
+order_id,order_date,city,product_category,payment_method,unit_price,quantity,discount_pct,delivery_days,customer_rating
+1001,2024-04-12,Karachi,Furniture,Cash,83.43,6,0.05,4.0,4.4
+1002,2025-03-11,Islamabad,Clothing,Bank Transfer,31.27,4,0.14,3.0,3.6
+1003,2024-12-14,Quetta,Electronics,Cash,162.15,2,0.37,7.0,3.4
+1004,2024-09-27,Karachi,Clothing,Cash,159.39,2,0.09,8.0,4.1
+1005,2024-04-16,Peshawar,Toys,Wallet,114.08,9,0.15,,3.8
+1006,2024-03-12,Quetta,Grocery,Wallet,113.98,5,0.17,5.0,4.2
+1007,2024-07-07,Quetta,Furniture,Bank Transfer,114.08,4,0.18,,5.0
+1008,2024-01-21,Karachi,Clothing,Bank Transfer,150.2,1,0.25,7.0,4.1
+1009,2024-04-12,Multan,Furniture,Credit Card,124.56,7,0.38,9.0,3.5
+1010,2024-05-01,Karachi,Electronics,Wallet,43.47,3,0.1,6.0,3.3
+1011,2025-04-11,Islamabad,Clothing,Cash,67.07,6,0.05,5.0,3.3
+1012,2024-08-02,Islamabad,Grocery,Cash,310.84,5,0.08,2.0,2.8
+1013,2024-11-26,Quetta,Electronics,Credit Card,15.42,5,0.35,3.0,4.7
+1014,2025-04-03,Quetta,Furniture,Wallet,55.79,5,0.26,6.0,2.2
+1015,2024-03-28,Karachi,Electronics,Cash,162.72,1,0.11,6.0,4.4
+1016,2025-01-07,Islamabad,Grocery,Credit Card,45.65,1,0.33,4.0,3.3
+1017,2024-04-09,Islamabad,Clothing,Credit Card,126.81,3,0.34,2.0,3.6
+1018,2024-12-25,Multan,Grocery,Cash,82.68,4,0.34,2.0,3.3
+1019,2024-05-31,Peshawar,Electronics,Cash,48.16,5,0.37,5.0,5.0
+1020,2024-05-10,Multan,Electronics,Bank Transfer,13.15,2,0.1,9.0,4.0
+1021,2024-05-29,Lahore,Toys,Wallet,91.36,8,0.3,4.0,4.6
+1022,2024-11-04,Multan,Clothing,Bank Transfer,42.74,2,0.18,7.0,5.0
+1023,2024-09-14,Karachi,Furniture,Credit Card,73.53,9,0.34,2.0,4.1
+1024,2024-12-09,Peshawar,Toys,Cash,113.33,2,0.29,5.0,3.0
+1025,2025-05-06,Karachi,Electronics,Bank Transfer,142.38,9,0.31,5.0,3.8
+1026,2025-02-17,Lahore,Clothing,Credit Card,55.65,7,0.26,7.0,3.4
+1027,2024-10-20,Peshawar,Grocery,Wallet,48.09,8,0.07,2.0,
+1028,2025-01-20,Quetta,Toys,Cash,28.01,2,0.22,8.0,3.9
+1029,2024-07-10,Islamabad,Toys,Bank Transfer,146.96,7,0.39,3.0,3.9
+1030,2025-03-19,Multan,Grocery,Wallet,283.18,6,0.37,6.0,4.3
+1031,2024-10-03,Karachi,Furniture,Bank Transfer,157.39,4,0.02,7.0,4.4
+1032,2024-06-09,Lahore,Electronics,Credit Card,180.3,7,0.07,8.0,3.9
+1033,2025-04-04,Islamabad,Toys,Wallet,45.94,4,0.05,6.0,4.3
+1034,2024-11-09,Multan,Toys,Bank Transfer,108.85,2,0.29,5.0,3.6
+1035,2024-01-22,Islamabad,Electronics,Wallet,134.6,7,0.33,6.0,5.0
+1036,2024-09-09,Multan,Clothing,Credit Card,34.84,8,0.09,6.0,3.5
+1037,2024-08-23,Quetta,Electronics,Wallet,220.42,2,0.2,4.0,5.0
+1038,2024-12-10,Peshawar,Clothing,Bank Transfer,23.82,5,0.34,2.0,
+1039,2024-02-18,Islamabad,Furniture,Credit Card,198.75,1,0.29,5.0,3.7
+1040,2025-04-19,Islamabad,Clothing,Cash,23.69,7,0.22,9.0,
+1041,2024-02-28,Islamabad,Electronics,Bank Transfer,36.21,8,0.24,4.0,4.2
+1042,2024-06-18,Peshawar,Clothing,Bank Transfer,110.18,6,0.2,3.0,4.7
+1043,2025-04-20,Lahore,Toys,Credit Card,84.13,5,0.12,5.0,3.0
+1044,2024-07-06,Multan,Grocery,Credit Card,59.77,6,0.23,4.0,
+1045,2025-04-08,Quetta,Clothing,Cash,215.02,2,0.28,4.0,2.9
+1046,2024-09-27,Islamabad,Electronics,Bank Transfer,28.62,1,0.35,3.0,5.0
+1047,2024-07-08,Peshawar,Toys,Credit Card,71.52,7,0.25,6.0,
+1048,2025-03-21,Lahore,Furniture,Cash,119.63,7,0.3,6.0,3.1
+1049,2024-06-23,Multan,Clothing,Cash,97.54,2,0.06,5.0,3.6
+1050,2025-03-21,Peshawar,Electronics,Credit Card,49.33,2,0.18,4.0,4.9
+1051,2024-02-20,Quetta,Electronics,Bank Transfer,50.71,1,0.0,8.0,3.8
+1052,2024-12-29,Quetta,Electronics,Wallet,140.98,8,0.1,5.0,3.7
+1053,2024-02-24,Multan,Grocery,Wallet,145.34,8,0.29,4.0,3.4
+1054,2024-08-31,Islamabad,Toys,Cash,99.31,1,0.4,1.0,3.2
+1055,2024-11-15,Quetta,Clothing,Wallet,41.41,8,0.04,3.0,4.9
+1056,2024-05-10,Lahore,Furniture,Wallet,51.94,9,0.16,4.0,5.0
+1057,2025-04-29,Peshawar,Clothing,Credit Card,78.79,4,0.32,4.0,3.2
+1058,2024-11-02,Lahore,Furniture,Cash,87.02,1,0.08,6.0,5.0
+1059,2024-05-14,Islamabad,Furniture,Bank Transfer,116.48,1,0.22,5.0,3.6
+1060,2024-01-21,Lahore,Electronics,Cash,68.86,3,0.29,6.0,4.4
+1061,2024-11-24,Lahore,Clothing,Credit Card,138.9,5,0.25,8.0,5.0
+1062,2024-06-15,Karachi,Grocery,Wallet,137.88,5,0.08,4.0,3.9
+1063,2024-09-30,Lahore,Electronics,Bank Transfer,184.28,9,0.14,6.0,3.7
+1064,2025-01-22,Multan,Clothing,Cash,81.23,2,0.31,3.0,4.6
+1065,2024-03-29,Peshawar,Grocery,Wallet,100.45,2,0.22,7.0,3.1
+1066,2024-11-11,Karachi,Toys,Cash,72.69,6,0.0,6.0,4.9
+1067,2024-01-14,Peshawar,Clothing,Bank Transfer,41.8,9,0.3,7.0,4.1
+1068,2024-08-29,Peshawar,Furniture,Cash,279.05,1,0.01,4.0,3.5
+1069,2024-09-21,Islamabad,Clothing,Cash,169.4,9,0.3,3.0,3.5
+1070,2024-12-11,Islamabad,Furniture,Cash,136.03,9,0.08,2.0,2.9
+1071,2024-02-22,Karachi,Grocery,Wallet,79.29,9,0.38,3.0,3.6
+1072,2025-01-20,Quetta,Toys,Bank Transfer,39.02,5,0.15,4.0,3.8
+1073,2024-12-05,Islamabad,Clothing,Bank Transfer,152.11,9,0.13,3.0,3.2
+1074,2024-04-01,Islamabad,Grocery,Wallet,71.78,4,0.06,8.0,4.0
+1075,2025-01-01,Islamabad,Grocery,Wallet,106.64,2,0.12,3.0,4.4
+1076,2025-03-19,Peshawar,Clothing,Wallet,51.79,6,0.35,5.0,3.8
+1077,2025-03-30,Karachi,Electronics,Credit Card,95.15,4,0.4,5.0,4.5
+1078,2025-03-03,Peshawar,Electronics,Cash,54.24,6,0.15,1.0,3.4
+1079,2024-09-20,Multan,Electronics,Cash,55.83,3,0.18,5.0,4.8
+1080,2025-03-06,Peshawar,Toys,Bank Transfer,94.3,6,0.29,7.0,4.1
+1081,2024-02-04,Multan,Electronics,Cash,23.41,2,0.35,5.0,5.0
+1082,2024-07-24,Lahore,Electronics,Credit Card,24.35,2,0.24,8.0,5.0
+1083,2024-03-21,Lahore,Furniture,Wallet,45.53,9,0.16,3.0,
+1084,2025-02-23,Multan,Clothing,Bank Transfer,68.27,7,0.17,5.0,3.7
+1085,2024-02-19,Multan,Grocery,Bank Transfer,141.67,3,0.28,6.0,3.8
+1086,2024-12-25,Peshawar,Electronics,Cash,71.09,1,0.0,6.0,4.5
+1087,2025-01-22,Multan,Toys,Bank Transfer,78.93,8,0.25,2.0,5.0
+1088,2024-01-02,Karachi,Toys,Wallet,64.45,6,0.14,6.0,3.5
+1089,2025-01-24,Lahore,Toys,Bank Transfer,100.35,7,0.32,4.0,4.3
+1090,2024-02-23,Lahore,Clothing,Wallet,41.48,9,0.04,5.0,3.9
+1091,2024-04-15,Quetta,Furniture,Credit Card,73.86,5,0.24,3.0,4.5
+1092,2024-09-16,Multan,Electronics,Credit Card,105.84,1,0.19,6.0,5.0
+1093,2024-11-05,Islamabad,Electronics,Wallet,93.79,7,0.26,9.0,3.8
+1094,2025-04-21,Islamabad,Electronics,Cash,80.73,5,0.03,5.0,2.7
+1095,2024-07-09,Multan,Grocery,Bank Transfer,81.43,3,0.23,10.0,4.6
+1096,2025-02-05,Karachi,Clothing,Cash,112.81,9,0.22,4.0,3.3
+1097,2024-08-05,Islamabad,Grocery,Bank Transfer,287.52,1,0.22,4.0,3.9
+1098,2024-02-13,Quetta,Electronics,Credit Card,43.67,1,0.24,1.0,4.6
+1099,2024-06-10,Multan,Clothing,Credit Card,292.7,1,0.27,5.0,4.2
+1100,2024-07-20,Karachi,Furniture,Credit Card,42.16,3,0.32,5.0,3.9
+1101,2025-03-21,Karachi,Clothing,Bank Transfer,11.91,6,0.11,2.0,3.5
+1102,2025-04-28,Peshawar,Furniture,Credit Card,53.42,3,0.33,4.0,1.7
+1103,2024-09-26,Karachi,Electronics,Credit Card,101.66,8,0.2,5.0,4.6
+1104,2024-12-16,Islamabad,Furniture,Credit Card,250.32,2,0.03,8.0,3.8
+1105,2024-10-30,Islamabad,Grocery,Credit Card,38.98,9,0.02,5.0,5.0
+1106,2024-09-27,Multan,Electronics,Cash,112.36,3,0.13,4.0,4.3
+1107,2025-03-31,Multan,Electronics,Credit Card,26.48,5,0.31,2.0,3.6
+1108,2025-04-06,Karachi,Grocery,Credit Card,244.64,8,0.28,6.0,
+1109,2024-08-02,Quetta,Furniture,Cash,171.5,2,0.32,8.0,4.9
+1110,2024-09-08,Lahore,Clothing,Cash,55.91,6,0.21,5.0,3.8
+1111,2024-07-08,Peshawar,Clothing,Bank Transfer,189.35,5,0.18,5.0,5.0
+1112,2024-10-22,Lahore,Toys,Wallet,73.54,9,0.06,2.0,
+1113,2024-07-31,Karachi,Grocery,Credit Card,177.34,5,0.13,9.0,4.1
+1114,2024-07-26,Karachi,Clothing,Credit Card,80.31,2,0.17,5.0,4.5
+1115,2024-08-24,Lahore,Clothing,Credit Card,82.76,5,0.04,2.0,4.6
+1116,2024-12-03,Peshawar,Electronics,Bank Transfer,56.77,4,0.09,2.0,4.5
+1117,2025-01-01,Lahore,Grocery,Credit Card,122.32,7,0.24,3.0,3.7
+1118,2024-02-22,Multan,Clothing,Wallet,87.21,6,0.29,5.0,4.9
+1119,2024-10-06,Islamabad,Toys,Cash,114.03,2,0.4,1.0,3.9
+1120,2025-02-13,Quetta,Clothing,Bank Transfer,21.52,5,0.37,8.0,3.5
+1121,2024-08-04,Multan,Clothing,Cash,181.41,7,0.26,5.0,3.6
+1122,2024-09-08,Islamabad,Grocery,Credit Card,211.02,7,0.17,8.0,5.0
+1123,2024-07-06,Quetta,Toys,Credit Card,86.92,5,0.25,7.0,3.4
+1124,2025-01-14,Quetta,Furniture,Credit Card,274.72,9,0.31,6.0,5.0
+1125,2025-05-07,Quetta,Clothing,Wallet,235.18,4,0.05,8.0,3.1
+1126,2024-02-10,Karachi,Furniture,Wallet,124.09,3,0.16,7.0,4.4
+1127,2024-06-05,Quetta,Grocery,Bank Transfer,190.92,4,0.34,9.0,4.2
+1128,2024-01-15,Peshawar,Clothing,Cash,159.82,5,0.15,5.0,5.0
+1129,2024-10-27,Lahore,Electronics,Credit Card,17.2,6,0.23,3.0,3.5
+1130,2024-03-05,Peshawar,Clothing,Credit Card,65.41,3,0.24,9.0,3.3
+1131,2024-12-10,Lahore,Electronics,Credit Card,129.89,2,0.07,7.0,3.9
+1132,2024-11-22,Multan,Toys,Credit Card,219.98,4,0.14,3.0,5.0
+1133,2024-01-09,Multan,Clothing,Wallet,25.0,5,0.13,6.0,3.3
+1134,2024-12-09,Lahore,Toys,Cash,18.18,4,0.01,5.0,1.9
+1135,2024-05-08,Peshawar,Grocery,Cash,76.82,3,0.01,4.0,4.0
+1136,2025-05-06,Lahore,Grocery,Bank Transfer,12.6,8,0.33,5.0,
+1137,2024-05-15,Quetta,Grocery,Wallet,74.94,4,0.11,4.0,3.2
+1138,2025-04-16,Karachi,Electronics,Credit Card,103.38,2,0.21,4.0,4.7
+1139,2024-03-03,Multan,Clothing,Cash,37.58,2,0.12,7.0,3.2
+1140,2024-05-18,Karachi,Electronics,Cash,76.42,1,0.38,4.0,3.9
+1141,2025-05-13,Quetta,Grocery,Wallet,150.3,4,0.1,4.0,4.6
+1142,2024-03-21,Quetta,Clothing,Bank Transfer,53.22,9,0.17,4.0,3.1
+1143,2025-01-26,Multan,Furniture,Bank Transfer,42.72,7,0.35,6.0,4.1
+1144,2024-06-11,Multan,Electronics,Credit Card,73.95,7,0.34,4.0,5.0
+1145,2025-02-22,Quetta,Electronics,Bank Transfer,34.5,7,0.07,5.0,4.4
+1146,2024-10-15,Islamabad,Clothing,Cash,261.83,8,0.32,4.0,3.4
+1147,2025-01-13,Karachi,Toys,Bank Transfer,82.07,1,0.18,4.0,5.0
+1148,2024-09-17,Karachi,Furniture,Credit Card,46.25,8,0.19,7.0,4.5
+1149,2025-05-04,Islamabad,Clothing,Cash,93.13,4,0.05,5.0,2.5
+1150,2024-08-18,Peshawar,Grocery,Bank Transfer,73.66,4,0.03,8.0,4.7
+1151,2024-02-10,Karachi,Electronics,Bank Transfer,67.88,4,0.29,1.0,3.5
+1152,2024-01-28,Lahore,Toys,Wallet,53.21,6,0.2,7.0,4.2
+1153,2024-05-14,Quetta,Grocery,Credit Card,51.28,7,0.17,4.0,4.8
+1154,2024-07-19,Quetta,Clothing,Bank Transfer,21.92,6,0.29,,3.6
+1155,2024-11-23,Islamabad,Grocery,Wallet,190.73,1,0.31,4.0,2.7
+1156,2024-09-24,Karachi,Electronics,Cash,118.73,8,0.06,6.0,5.0
+1157,2025-02-21,Peshawar,Toys,Wallet,99.57,7,0.24,4.0,4.9
+1158,2024-02-02,Karachi,Electronics,Wallet,72.81,6,0.05,3.0,3.9
+1159,2024-02-17,Quetta,Grocery,Bank Transfer,37.06,6,0.3,2.0,4.7
+1160,2025-02-10,Multan,Electronics,Bank Transfer,44.08,5,0.26,5.0,3.7
+1161,2024-03-02,Lahore,Furniture,Bank Transfer,24.0,6,0.38,10.0,4.1
+1162,2024-08-03,Islamabad,Furniture,Wallet,48.36,9,0.03,3.0,3.9
+1163,2024-10-19,Multan,Grocery,Cash,33.08,9,0.02,7.0,3.7
+1164,2024-04-08,Peshawar,Grocery,Credit Card,226.91,8,0.11,6.0,4.3
+1165,2024-06-20,Multan,Toys,Wallet,143.76,9,0.1,4.0,3.0
+1166,2024-12-25,Multan,Electronics,Bank Transfer,84.59,8,0.1,4.0,3.8
+1167,2024-08-01,Peshawar,Clothing,Credit Card,40.27,8,0.36,3.0,4.3
+1168,2025-04-19,Multan,Electronics,Cash,34.44,1,0.1,5.0,5.0
+1169,2024-02-04,Islamabad,Toys,Credit Card,69.48,5,0.11,4.0,3.1
+1170,2025-03-24,Quetta,Clothing,Bank Transfer,147.7,4,0.3,2.0,4.4
+1171,2024-08-14,Karachi,Furniture,Wallet,24.56,2,0.18,6.0,4.5
+1172,2024-04-10,Multan,Grocery,Wallet,117.69,8,0.31,5.0,2.5
+1173,2025-03-06,Islamabad,Electronics,Bank Transfer,48.2,3,0.03,8.0,4.3
+1174,2025-04-06,Karachi,Electronics,Wallet,55.11,4,0.2,5.0,4.7
+1175,2024-05-10,Karachi,Clothing,Bank Transfer,82.85,7,0.01,8.0,4.5
+1176,2024-09-13,Multan,Clothing,Wallet,41.34,9,0.03,5.0,3.9
+1177,2024-01-05,Islamabad,Electronics,Wallet,66.96,2,0.36,4.0,4.3
+1178,2024-08-05,Quetta,Electronics,Wallet,38.67,3,0.06,1.0,4.1
+1179,2024-09-11,Multan,Toys,Cash,51.23,4,0.21,5.0,2.6
+1180,2025-02-01,Peshawar,Toys,Cash,133.0,1,0.16,2.0,4.2
+1181,2024-12-24,Karachi,Clothing,Bank Transfer,85.92,7,0.14,4.0,3.7
+1182,2024-10-09,Multan,Clothing,Cash,132.67,2,0.36,4.0,3.4
+1183,2025-01-27,Karachi,Electronics,Bank Transfer,47.72,5,0.01,3.0,5.0
+1184,2024-07-25,Islamabad,Grocery,Credit Card,118.27,1,0.27,6.0,5.0
+1185,2024-01-15,Lahore,Furniture,Credit Card,19.62,3,0.39,6.0,3.1
+1186,2024-12-11,Multan,Electronics,Cash,82.83,2,0.22,6.0,4.3
+1187,2024-02-11,Quetta,Electronics,Credit Card,123.55,1,0.37,4.0,5.0
+1188,2025-01-14,Multan,Furniture,Credit Card,18.96,7,0.02,5.0,2.8
+1189,2025-04-05,Karachi,Grocery,Wallet,48.15,5,0.17,1.0,4.1
+1190,2024-06-27,Islamabad,Electronics,Wallet,82.79,1,0.1,4.0,4.1
+1191,2024-03-03,Peshawar,Grocery,Bank Transfer,154.97,6,0.29,4.0,3.0
+1192,2024-12-17,Quetta,Clothing,Credit Card,51.23,5,0.39,,4.3
+1193,2024-08-18,Islamabad,Clothing,Bank Transfer,115.18,3,0.1,5.0,4.9
+1194,2024-08-28,Multan,Furniture,Bank Transfer,198.79,7,0.26,5.0,5.0
+1195,2024-02-21,Peshawar,Furniture,Credit Card,118.77,9,0.08,5.0,3.8
+1196,2024-04-05,Islamabad,Clothing,Cash,68.81,9,0.23,3.0,5.0
+1197,2025-01-22,Lahore,Toys,Credit Card,103.69,9,0.19,6.0,2.4
+1198,2024-08-09,Quetta,Clothing,Wallet,50.1,2,0.39,3.0,4.3
+1199,2025-04-29,Karachi,Furniture,Credit Card,85.14,3,0.24,6.0,2.9
+1200,2025-02-10,Islamabad,Clothing,Cash,71.31,7,0.14,4.0,4.1
+1201,2024-08-18,Islamabad,Toys,Bank Transfer,101.37,5,0.05,5.0,3.6
+1202,2024-08-24,Lahore,Toys,Bank Transfer,58.53,2,0.06,7.0,4.4
+1203,2024-05-22,Multan,Electronics,Wallet,105.33,3,0.09,4.0,3.9
+1204,2024-06-19,Quetta,Toys,Wallet,58.11,6,0.1,10.0,3.3
+1205,2024-01-29,Quetta,Furniture,Wallet,142.84,7,0.34,5.0,3.4
+1206,2024-02-05,Karachi,Furniture,Bank Transfer,62.61,9,0.22,5.0,5.0
+1207,2024-01-13,Islamabad,Electronics,Wallet,12.98,1,0.21,2.0,4.4
+1208,2024-06-08,Peshawar,Furniture,Credit Card,35.36,7,0.05,,2.6
+1209,2024-11-22,Islamabad,Toys,Bank Transfer,81.08,8,0.34,5.0,4.4
+1210,2024-07-05,Karachi,Clothing,Cash,225.63,3,0.29,5.0,3.8
+1211,2024-08-30,Islamabad,Toys,Bank Transfer,139.24,4,0.03,5.0,4.0
+1212,2024-03-26,Lahore,Electronics,Credit Card,10.93,6,0.28,4.0,4.7
+1213,2024-10-10,Islamabad,Electronics,Credit Card,22.72,7,0.22,2.0,4.9
+1214,2024-03-06,Islamabad,Grocery,Wallet,168.0,4,0.03,4.0,3.3
+1215,2024-06-18,Peshawar,Grocery,Bank Transfer,123.09,8,0.18,10.0,4.0
+1216,2024-02-14,Lahore,Grocery,Bank Transfer,304.37,5,0.19,3.0,3.6
+1217,2024-03-02,Lahore,Electronics,Bank Transfer,56.35,1,0.07,8.0,4.5
+1218,2025-03-16,Islamabad,Toys,Cash,40.67,4,0.38,3.0,3.8
+1219,2024-05-13,Quetta,Electronics,Wallet,84.23,3,0.34,6.0,4.0
+1220,2024-10-10,Peshawar,Electronics,Credit Card,55.53,9,0.27,1.0,3.8
+1221,2024-01-28,Islamabad,Electronics,Credit Card,157.86,8,0.18,4.0,3.9
+1222,2024-04-17,Islamabad,Grocery,Wallet,54.1,1,0.16,10.0,5.0
+1223,2024-02-13,Karachi,Toys,Credit Card,65.39,6,0.26,7.0,5.0
+1224,2024-12-05,Karachi,Grocery,Credit Card,36.3,9,0.22,9.0,4.3
+1225,2024-10-12,Quetta,Furniture,Wallet,133.13,7,0.02,6.0,3.9
+1226,2025-03-21,Peshawar,Electronics,Credit Card,38.17,4,0.21,6.0,2.7
+1227,2024-11-26,Multan,Grocery,Bank Transfer,106.67,1,0.32,6.0,3.4
+1228,2024-05-07,Karachi,Clothing,Cash,250.4,2,0.18,3.0,3.9
+1229,2024-12-13,Multan,Clothing,Wallet,16.86,5,0.02,10.0,3.4
+1230,2025-04-17,Lahore,Electronics,Cash,204.81,5,0.31,6.0,3.5
+1231,2024-08-18,Karachi,Grocery,Credit Card,97.47,8,0.08,2.0,5.0
+1232,2024-07-08,Karachi,Grocery,Credit Card,31.78,6,0.1,5.0,4.0
+1233,2024-08-12,Peshawar,Furniture,Bank Transfer,86.54,8,0.07,6.0,4.1
+1234,2025-01-19,Quetta,Clothing,Wallet,130.56,2,0.13,4.0,3.5
+1235,2025-01-11,Multan,Electronics,Credit Card,42.81,3,0.3,6.0,4.9
+1236,2024-10-09,Karachi,Grocery,Wallet,110.86,6,0.21,4.0,3.8
+1237,2025-03-21,Karachi,Electronics,Wallet,215.85,3,0.08,5.0,3.6
+1238,2024-04-30,Peshawar,Toys,Wallet,54.05,6,0.35,4.0,2.7
+1239,2024-04-25,Peshawar,Grocery,Wallet,35.95,6,0.35,2.0,4.0
+1240,2025-04-05,Quetta,Electronics,Wallet,72.93,2,0.35,6.0,3.6
+1241,2024-08-20,Multan,Toys,Cash,83.28,7,0.1,4.0,5.0
+1242,2024-09-15,Lahore,Grocery,Bank Transfer,163.22,2,0.18,3.0,5.0
+1243,2024-12-24,Quetta,Electronics,Wallet,71.19,6,0.39,3.0,3.0
+1244,2024-07-16,Lahore,Grocery,Cash,57.83,1,0.31,5.0,3.1
+1245,2025-03-31,Islamabad,Clothing,Credit Card,35.23,3,0.01,3.0,3.8
+1246,2025-02-14,Karachi,Furniture,Wallet,19.09,2,0.03,5.0,3.3
+1247,2024-05-16,Multan,Furniture,Credit Card,27.25,7,0.19,4.0,4.2
+1248,2024-11-13,Quetta,Toys,Wallet,27.12,4,0.36,3.0,3.7
+1249,2024-06-13,Karachi,Grocery,Cash,65.91,8,0.22,4.0,4.2
+1250,2024-08-12,Multan,Clothing,Cash,22.18,6,0.2,11.0,4.8
+1251,2024-11-02,Multan,Furniture,Cash,76.89,4,0.04,5.0,3.1
+1252,2024-08-21,Multan,Electronics,Bank Transfer,246.85,5,0.26,6.0,4.8
+1253,2024-06-20,Karachi,Grocery,Credit Card,166.33,9,0.33,4.0,3.4
+1254,2024-05-31,Quetta,Grocery,Bank Transfer,65.44,7,0.15,5.0,5.0
+1255,2025-04-07,Peshawar,Electronics,Wallet,350.83,9,0.31,5.0,5.0
+1256,2024-11-10,Karachi,Clothing,Credit Card,83.49,7,0.39,4.0,3.9
+1257,2025-01-08,Multan,Toys,Cash,92.11,1,0.08,7.0,3.2
+1258,2024-06-08,Quetta,Toys,Credit Card,71.92,8,0.21,4.0,3.1
+1259,2024-04-05,Islamabad,Electronics,Cash,78.11,4,0.11,6.0,4.7
+1260,2025-04-16,Lahore,Electronics,Bank Transfer,52.65,3,0.32,4.0,4.0
+1261,2024-08-20,Multan,Clothing,Bank Transfer,66.14,7,0.23,1.0,4.7
+1262,2024-06-28,Islamabad,Toys,Cash,205.7,3,0.25,7.0,5.0
+1263,2024-04-22,Peshawar,Electronics,Cash,178.18,8,0.32,4.0,3.4
+1264,2024-11-13,Multan,Furniture,Wallet,12.52,6,0.16,3.0,3.0
+1265,2025-05-11,Islamabad,Electronics,Bank Transfer,24.35,5,0.37,6.0,4.2
+1266,2025-03-17,Multan,Grocery,Bank Transfer,43.28,4,0.21,7.0,4.9
+1267,2024-02-21,Karachi,Clothing,Wallet,148.55,8,0.06,2.0,3.2
+1268,2024-09-24,Quetta,Furniture,Bank Transfer,180.78,8,0.28,7.0,4.0
+1269,2024-10-21,Islamabad,Electronics,Cash,130.22,1,0.32,,5.0
+1270,2025-01-20,Quetta,Grocery,Credit Card,31.67,9,0.13,3.0,2.7
+1271,2025-01-21,Karachi,Electronics,Credit Card,53.47,5,0.34,3.0,4.2
+1272,2024-04-22,Karachi,Furniture,Bank Transfer,112.17,4,0.36,4.0,3.6
+1273,2024-04-10,Quetta,Toys,Wallet,66.89,6,0.11,5.0,4.1
+1274,2024-04-22,Islamabad,Electronics,Cash,60.26,6,0.39,4.0,4.6
+1275,2025-03-15,Quetta,Toys,Credit Card,60.92,2,0.06,4.0,4.2
+1276,2024-03-21,Quetta,Grocery,Cash,169.52,8,0.08,2.0,3.2
+1277,2024-07-05,Lahore,Electronics,Bank Transfer,120.0,7,0.07,5.0,3.6
+1278,2024-04-22,Islamabad,Clothing,Bank Transfer,63.42,1,0.36,8.0,5.0
+1279,2024-01-02,Lahore,Electronics,Credit Card,100.59,5,0.26,7.0,
+1280,2024-05-09,Multan,Furniture,Bank Transfer,28.27,6,0.06,7.0,4.7
+1281,2024-08-07,Quetta,Furniture,Wallet,53.55,4,0.18,6.0,4.2
+1282,2024-02-23,Multan,Electronics,Bank Transfer,158.94,2,0.25,4.0,4.6
+1283,2024-12-08,Islamabad,Grocery,Bank Transfer,21.04,4,0.03,3.0,3.7
+1284,2025-04-29,Quetta,Furniture,Bank Transfer,121.0,1,0.35,6.0,3.4
+1285,2024-08-11,Multan,Toys,Cash,12.42,7,0.32,7.0,4.6
+1286,2024-08-12,Peshawar,Grocery,Cash,228.03,2,0.2,1.0,4.9
+1287,2025-01-19,Karachi,Toys,Credit Card,52.59,2,0.39,7.0,3.3
+1288,2025-02-06,Quetta,Grocery,Credit Card,105.66,9,0.17,4.0,3.5
+1289,2024-05-05,Karachi,Clothing,Credit Card,86.83,5,0.39,5.0,3.9
+1290,2024-05-09,Lahore,Furniture,Bank Transfer,89.07,2,0.27,5.0,5.0
+1291,2024-02-22,Multan,Clothing,Cash,99.34,9,0.25,4.0,4.5
+1292,2024-06-20,Lahore,Clothing,Wallet,18.06,9,0.07,11.0,2.9
+1293,2024-08-05,Quetta,Clothing,Bank Transfer,90.37,1,0.35,2.0,3.9
+1294,2024-06-08,Karachi,Furniture,Bank Transfer,69.81,3,0.17,6.0,3.8
+1295,2024-07-16,Karachi,Furniture,Bank Transfer,52.81,4,0.06,3.0,3.1
+1296,2025-02-19,Multan,Clothing,Wallet,43.26,7,0.01,3.0,3.9
+1297,2024-09-03,Quetta,Clothing,Credit Card,91.96,4,0.22,4.0,3.8
+1298,2024-11-19,Peshawar,Clothing,Wallet,36.31,2,0.21,8.0,3.7
+1299,2025-03-14,Peshawar,Grocery,Credit Card,157.08,7,0.29,2.0,3.7
+1300,2024-07-21,Multan,Electronics,Wallet,110.94,6,0.36,,5.0
+1301,2024-07-02,Quetta,Furniture,Cash,95.88,3,0.03,5.0,3.7
+1302,2024-05-02,Multan,Clothing,Bank Transfer,152.8,6,0.29,7.0,4.0
+1303,2025-02-04,Quetta,Clothing,Bank Transfer,15.83,6,0.07,2.0,4.0
+1304,2024-09-11,Lahore,Electronics,Bank Transfer,27.52,5,0.34,5.0,3.6
+1305,2024-10-20,Multan,Electronics,Credit Card,114.27,4,0.33,7.0,4.1
+1306,2024-10-06,Quetta,Toys,Wallet,45.25,1,0.22,4.0,4.1
+1307,2024-11-20,Peshawar,Clothing,Cash,49.79,6,0.28,6.0,4.1
+1308,2025-01-06,Quetta,Electronics,Wallet,24.37,2,0.13,4.0,3.3
+1309,2024-04-07,Quetta,Clothing,Bank Transfer,36.39,3,0.19,5.0,3.8
+1310,2024-07-16,Multan,Clothing,Cash,159.37,8,0.33,7.0,4.6
+1311,2025-04-14,Lahore,Electronics,Cash,112.46,6,0.18,3.0,3.9
+1312,2025-01-29,Lahore,Clothing,Bank Transfer,91.26,3,0.14,4.0,4.1
+1313,2024-08-27,Lahore,Grocery,Wallet,51.28,7,0.2,4.0,4.1
+1314,2024-05-23,Lahore,Grocery,Bank Transfer,87.31,4,0.33,5.0,4.3
+1315,2024-04-06,Islamabad,Clothing,Wallet,168.54,9,0.13,10.0,4.4
+1316,2024-07-19,Multan,Clothing,Cash,46.12,5,0.07,7.0,3.9
+1317,2024-05-03,Karachi,Toys,Cash,77.99,3,0.28,7.0,3.3
+1318,2024-07-05,Multan,Clothing,Bank Transfer,237.08,2,0.33,6.0,3.0
+1319,2024-11-21,Islamabad,Clothing,Cash,129.09,2,0.04,2.0,4.8
+1320,2025-04-08,Lahore,Electronics,Credit Card,51.84,3,0.1,1.0,4.6
+1321,2024-12-14,Islamabad,Clothing,Cash,122.23,2,0.06,10.0,4.5
+1322,2024-09-15,Peshawar,Furniture,Credit Card,20.76,4,0.14,3.0,4.6
+1323,2024-05-27,Peshawar,Electronics,Cash,75.76,2,0.18,6.0,3.9
+1324,2024-09-08,Multan,Furniture,Bank Transfer,122.14,9,0.3,5.0,3.5
+1325,2025-03-18,Multan,Electronics,Bank Transfer,104.33,2,0.26,3.0,3.2
+1326,2025-02-23,Karachi,Clothing,Credit Card,121.36,9,0.25,5.0,3.1
+1327,2025-02-06,Karachi,Furniture,Bank Transfer,139.63,6,0.14,1.0,5.0
+1328,2024-12-11,Peshawar,Clothing,Cash,109.96,1,0.34,4.0,3.6
+1329,2025-03-26,Lahore,Grocery,Cash,107.83,4,0.19,4.0,4.8
+1330,2024-05-26,Islamabad,Electronics,Bank Transfer,92.72,1,0.39,5.0,3.9
+1331,2024-05-27,Karachi,Furniture,Cash,33.1,6,0.25,3.0,3.5
+1332,2024-12-17,Quetta,Electronics,Wallet,159.33,4,0.05,2.0,3.1
+1333,2024-07-17,Karachi,Toys,Wallet,77.73,3,0.27,1.0,3.5
+1334,2024-11-03,Lahore,Electronics,Cash,126.97,3,0.13,3.0,5.0
+1335,2025-05-03,Lahore,Toys,Bank Transfer,148.78,9,0.27,7.0,
+1336,2025-02-20,Multan,Clothing,Credit Card,53.84,6,0.03,4.0,5.0
+1337,2025-02-27,Islamabad,Furniture,Bank Transfer,57.48,9,0.07,5.0,3.3
+1338,2024-05-07,Lahore,Clothing,Credit Card,63.43,5,0.34,5.0,4.6
+1339,2024-02-08,Karachi,Toys,Bank Transfer,179.16,2,0.09,3.0,3.9
+1340,2024-12-03,Karachi,Electronics,Cash,39.11,8,0.33,4.0,3.7
+1341,2024-12-25,Peshawar,Electronics,Wallet,199.38,5,0.11,4.0,3.0
+1342,2024-05-08,Lahore,Clothing,Bank Transfer,92.01,2,0.26,5.0,3.9
+1343,2024-09-23,Quetta,Electronics,Credit Card,96.61,4,0.28,5.0,3.1
+1344,2025-04-20,Multan,Electronics,Wallet,144.46,9,0.21,2.0,2.7
+1345,2025-03-16,Islamabad,Toys,Credit Card,84.88,4,0.12,6.0,4.1
+1346,2025-04-17,Quetta,Toys,Cash,160.49,4,0.09,4.0,3.5
+1347,2025-03-09,Multan,Clothing,Wallet,53.78,2,0.01,7.0,5.0
+1348,2024-05-30,Karachi,Toys,Credit Card,195.28,6,0.12,4.0,4.8
+1349,2025-02-18,Quetta,Grocery,Bank Transfer,56.98,2,0.26,9.0,5.0
+1350,2025-04-22,Multan,Clothing,Cash,200.08,7,0.38,5.0,3.5
+1351,2024-10-24,Karachi,Furniture,Cash,58.14,3,0.35,9.0,4.1
+1352,2024-04-08,Karachi,Grocery,Cash,64.79,3,0.31,5.0,1.9
+1353,2024-09-19,Karachi,Toys,Bank Transfer,35.48,5,0.32,5.0,3.8
+1354,2024-09-08,Karachi,Clothing,Bank Transfer,43.65,3,0.27,6.0,4.1
+1355,2024-05-23,Karachi,Grocery,Wallet,78.0,2,0.1,6.0,4.1
+1356,2024-12-11,Peshawar,Electronics,Bank Transfer,94.45,9,0.36,5.0,4.0
+1357,2024-04-21,Quetta,Electronics,Wallet,152.95,2,0.27,3.0,4.1
+1358,2025-05-14,Multan,Electronics,Cash,68.24,2,0.22,4.0,1.8
+1359,2024-02-29,Peshawar,Toys,Wallet,104.48,8,0.04,6.0,4.2
+1360,2025-01-03,Peshawar,Furniture,Credit Card,90.09,9,0.18,1.0,4.4
+1361,2024-01-02,Lahore,Furniture,Cash,112.4,7,0.18,3.0,5.0
+1362,2025-01-19,Lahore,Grocery,Cash,48.72,3,0.35,,4.3
+1363,2024-10-30,Lahore,Clothing,Wallet,53.19,9,0.22,5.0,3.9
+1364,2024-09-10,Islamabad,Electronics,Cash,48.73,3,0.15,4.0,4.9
+1365,2024-05-19,Lahore,Clothing,Bank Transfer,172.45,5,0.39,5.0,
+1366,2025-03-28,Multan,Clothing,Credit Card,196.49,9,0.04,10.0,3.6
+1367,2024-02-06,Peshawar,Furniture,Wallet,51.49,3,0.17,1.0,3.4
+1368,2024-06-08,Multan,Grocery,Wallet,52.28,7,0.02,5.0,4.0
+1369,2024-01-09,Quetta,Electronics,Cash,123.11,1,0.3,1.0,2.2
+1370,2024-08-20,Lahore,Electronics,Bank Transfer,210.61,4,0.37,6.0,5.0
+1371,2024-04-08,Islamabad,Electronics,Cash,240.19,4,0.11,5.0,3.8
+1372,2024-05-26,Quetta,Clothing,Cash,49.74,7,0.34,5.0,4.3
+1373,2024-10-30,Islamabad,Toys,Wallet,59.66,8,0.12,4.0,4.2
+1374,2024-07-26,Quetta,Grocery,Cash,97.86,1,0.36,6.0,5.0
+1375,2024-05-10,Peshawar,Furniture,Credit Card,101.16,5,0.3,5.0,2.5
+1376,2025-02-07,Multan,Clothing,Cash,70.18,7,0.32,3.0,4.1
+1377,2024-05-31,Karachi,Clothing,Cash,42.53,4,0.01,8.0,4.9
+1378,2024-02-23,Multan,Electronics,Wallet,78.09,4,0.39,6.0,3.9
+1379,2024-04-29,Lahore,Toys,Cash,240.02,4,0.29,3.0,3.2
+1380,2024-06-09,Karachi,Furniture,Bank Transfer,53.77,6,0.12,9.0,3.5
+1381,2025-02-11,Islamabad,Electronics,Wallet,93.77,7,0.33,2.0,3.7
+1382,2024-04-25,Peshawar,Grocery,Cash,343.41,2,0.11,5.0,3.4
+1383,2024-03-15,Peshawar,Clothing,Credit Card,53.19,5,0.35,5.0,3.9
+1384,2024-04-22,Islamabad,Grocery,Credit Card,127.0,4,0.05,2.0,5.0
+1385,2025-03-31,Lahore,Toys,Wallet,246.57,3,0.28,,3.5
+1386,2025-02-23,Islamabad,Grocery,Wallet,119.81,7,0.22,4.0,3.6
+1387,2025-02-25,Quetta,Grocery,Cash,164.61,6,0.04,7.0,4.4
+1388,2024-04-13,Lahore,Electronics,Bank Transfer,138.48,7,0.1,5.0,3.9
+1389,2024-12-05,Karachi,Electronics,Cash,113.5,5,0.0,5.0,2.9
+1390,2024-09-10,Islamabad,Electronics,Credit Card,192.36,6,0.19,2.0,4.0
+1391,2024-08-14,Lahore,Electronics,Bank Transfer,124.35,5,0.12,7.0,3.9
+1392,2024-04-21,Karachi,Furniture,Bank Transfer,70.7,7,0.24,4.0,4.8
+1393,2025-04-17,Islamabad,Furniture,Bank Transfer,88.85,2,0.12,4.0,3.2
+1394,2024-04-08,Peshawar,Electronics,Cash,103.52,5,0.12,4.0,4.8
+1395,2024-06-01,Islamabad,Furniture,Credit Card,59.39,6,0.3,5.0,3.9
+1396,2024-12-14,Multan,Electronics,Wallet,91.66,6,0.02,7.0,3.1
+1397,2025-02-05,Islamabad,Clothing,Cash,82.73,5,0.36,8.0,3.0
+1398,2025-01-18,Multan,Electronics,Wallet,124.1,7,0.34,3.0,5.0
+1399,2024-12-31,Karachi,Clothing,Bank Transfer,288.94,8,0.27,4.0,3.9
+1400,2024-12-03,Islamabad,Clothing,Bank Transfer,95.44,7,0.24,,
+1401,2024-07-12,Karachi,Clothing,Cash,214.03,5,0.36,5.0,2.6
+1402,2024-11-05,Karachi,Clothing,Credit Card,121.15,1,0.07,5.0,5.0
+1403,2024-06-11,Lahore,Toys,Bank Transfer,91.37,5,0.03,4.0,4.7
+1404,2024-07-26,Karachi,Electronics,Wallet,56.94,2,0.1,6.0,3.8
+1405,2025-03-20,Karachi,Electronics,Wallet,91.85,5,0.32,6.0,3.8
+1406,2024-06-17,Islamabad,Electronics,Cash,87.99,5,0.01,5.0,
+1407,2025-04-28,Islamabad,Grocery,Wallet,46.24,2,0.23,9.0,4.5
+1408,2024-06-09,Peshawar,Electronics,Credit Card,51.99,5,0.4,5.0,4.1
+1409,2024-03-08,Lahore,Furniture,Bank Transfer,104.12,4,0.34,4.0,4.0
+1410,2024-10-15,Karachi,Grocery,Wallet,212.67,1,0.21,6.0,4.4
+1411,2025-02-01,Lahore,Grocery,Wallet,76.24,3,0.03,10.0,2.6
+1412,2024-10-03,Multan,Grocery,Bank Transfer,23.41,1,0.33,6.0,3.7
+1413,2024-10-30,Karachi,Electronics,Cash,34.94,5,0.24,3.0,2.7
+1414,2025-02-07,Lahore,Electronics,Wallet,129.14,4,0.05,6.0,4.5
+1415,2025-01-18,Peshawar,Clothing,Cash,27.5,7,0.04,3.0,3.5
+1416,2025-01-26,Peshawar,Grocery,Cash,142.96,5,0.36,3.0,2.7
+1417,2024-05-14,Karachi,Electronics,Wallet,124.47,4,0.27,6.0,3.4
+1418,2024-07-13,Multan,Electronics,Credit Card,74.38,2,0.33,3.0,4.1
+1419,2025-02-04,Peshawar,Toys,Cash,46.56,4,0.35,6.0,
+1420,2024-05-07,Peshawar,Electronics,Wallet,66.84,2,0.23,2.0,3.1
+1421,2024-02-02,Multan,Furniture,Cash,102.37,8,0.21,4.0,2.6
+1422,2024-06-24,Lahore,Furniture,Bank Transfer,28.26,3,0.17,4.0,4.1
+1423,2025-04-04,Peshawar,Clothing,Credit Card,199.03,9,0.13,3.0,3.5
+1424,2025-03-18,Islamabad,Electronics,Credit Card,101.72,4,0.17,7.0,3.8
+1425,2025-01-05,Quetta,Electronics,Bank Transfer,109.79,6,0.31,3.0,3.9
+1426,2025-04-14,Quetta,Grocery,Bank Transfer,123.88,5,0.24,1.0,4.3
+1427,2025-01-09,Peshawar,Grocery,Cash,186.75,1,0.36,6.0,4.7
+1428,2024-01-22,Lahore,Furniture,Bank Transfer,92.01,9,0.18,3.0,4.1
+1429,2024-08-25,Lahore,Toys,Credit Card,129.19,1,0.24,6.0,3.7
+1430,2024-06-06,Karachi,Grocery,Bank Transfer,47.17,8,0.25,2.0,4.0
+1431,2024-02-07,Islamabad,Electronics,Wallet,240.82,9,0.24,6.0,3.7
+1432,2024-08-17,Lahore,Electronics,Wallet,87.69,9,0.28,6.0,2.7
+1433,2024-12-30,Multan,Furniture,Cash,46.98,1,0.09,6.0,4.9
+1434,2024-02-20,Islamabad,Electronics,Credit Card,56.95,2,0.2,9.0,4.7
+1435,2025-03-13,Quetta,Electronics,Wallet,15.07,1,0.04,5.0,5.0
+1436,2024-09-20,Islamabad,Furniture,Bank Transfer,56.67,2,0.15,6.0,5.0
+1437,2024-10-09,Multan,Clothing,Wallet,8.93,8,0.2,7.0,3.1
+1438,2024-01-27,Peshawar,Toys,Wallet,135.54,5,0.26,6.0,3.7
+1439,2024-08-13,Multan,Grocery,Cash,107.53,7,0.38,5.0,5.0
+1440,2024-10-03,Multan,Electronics,Bank Transfer,36.68,2,0.24,3.0,4.0
+1441,2024-10-12,Peshawar,Toys,Bank Transfer,77.26,8,0.3,8.0,4.2
+1442,2024-04-06,Peshawar,Clothing,Bank Transfer,79.79,6,0.2,3.0,2.8
+1443,2024-10-10,Peshawar,Clothing,Cash,30.83,8,0.25,5.0,4.1
+1444,2025-01-01,Peshawar,Clothing,Bank Transfer,67.88,1,0.03,4.0,5.0
+1445,2025-03-23,Peshawar,Electronics,Bank Transfer,81.57,1,0.1,5.0,5.0
+1446,2025-04-25,Multan,Clothing,Wallet,66.54,7,0.14,6.0,3.5
+1447,2025-03-28,Karachi,Electronics,Wallet,46.95,8,0.19,3.0,3.7
+1448,2024-11-12,Karachi,Clothing,Bank Transfer,35.56,3,0.02,8.0,3.1
+1449,2024-10-30,Lahore,Clothing,Credit Card,64.83,5,0.06,3.0,3.3
+1450,2024-05-26,Karachi,Furniture,Credit Card,51.47,1,0.11,6.0,2.5
+1451,2024-01-04,Quetta,Furniture,Bank Transfer,118.42,7,0.39,2.0,3.9
+1452,2024-02-04,Karachi,Electronics,Credit Card,194.21,5,0.13,4.0,5.0
+1453,2024-07-10,Multan,Clothing,Cash,147.56,8,0.19,2.0,4.3
+1454,2024-02-18,Peshawar,Clothing,Wallet,83.52,8,0.08,5.0,5.0
+1455,2024-01-17,Peshawar,Electronics,Cash,48.34,9,0.24,6.0,4.9
+1456,2024-06-20,Multan,Furniture,Wallet,144.95,7,0.11,6.0,3.6
+1457,2024-08-07,Quetta,Furniture,Credit Card,123.28,1,0.08,4.0,3.4
+1458,2024-06-06,Karachi,Electronics,Credit Card,185.52,3,0.21,5.0,3.4
+1459,2025-04-21,Multan,Clothing,Bank Transfer,92.08,8,0.0,5.0,2.6
+1460,2024-02-15,Lahore,Electronics,Credit Card,232.81,3,0.0,10.0,4.0
+1461,2025-01-07,Peshawar,Grocery,Credit Card,92.1,8,0.09,6.0,1.7
+1462,2024-01-06,Islamabad,Electronics,Bank Transfer,48.16,1,0.01,6.0,4.5
+1463,2024-04-08,Lahore,Toys,Bank Transfer,55.25,5,0.04,8.0,4.1
+1464,2025-01-14,Quetta,Furniture,Wallet,114.66,4,0.14,4.0,4.4
+1465,2024-08-20,Lahore,Clothing,Credit Card,51.36,5,0.32,3.0,4.8
+1466,2024-02-06,Multan,Grocery,Wallet,231.78,8,0.23,8.0,4.2
+1467,2024-10-06,Karachi,Toys,Wallet,108.31,4,0.21,8.0,5.0
+1468,2024-12-14,Peshawar,Grocery,Cash,82.23,4,0.12,6.0,4.5
+1469,2025-05-11,Quetta,Electronics,Credit Card,87.19,3,0.37,7.0,3.4
+1470,2024-10-28,Quetta,Clothing,Credit Card,66.02,7,0.16,6.0,3.8
+1471,2024-06-29,Islamabad,Furniture,Cash,18.83,3,0.03,3.0,2.2
+1472,2024-04-04,Lahore,Grocery,Wallet,55.29,3,0.25,6.0,3.3
+1473,2024-04-08,Islamabad,Grocery,Credit Card,213.64,5,0.05,8.0,3.7
+1474,2024-07-06,Karachi,Toys,Wallet,93.81,5,0.14,7.0,4.4
+1475,2025-04-25,Karachi,Toys,Cash,158.76,6,0.2,3.0,3.4
+1476,2024-04-25,Islamabad,Toys,Bank Transfer,161.74,8,0.35,7.0,3.0
+1477,2024-07-09,Peshawar,Electronics,Wallet,77.79,6,0.2,4.0,2.5
+1478,2024-09-09,Karachi,Grocery,Credit Card,124.64,1,0.28,6.0,3.5
+1479,2025-04-13,Islamabad,Furniture,Bank Transfer,20.64,8,0.4,5.0,5.0
+1480,2025-02-19,Lahore,Furniture,Wallet,202.64,8,0.05,3.0,4.2
+1481,2025-04-15,Islamabad,Grocery,Wallet,192.14,9,0.11,6.0,4.8
+1482,2024-06-09,Islamabad,Electronics,Bank Transfer,112.52,9,0.16,7.0,3.3
+1483,2024-09-12,Multan,Furniture,Bank Transfer,96.19,2,0.17,7.0,2.7
+1484,2024-11-18,Karachi,Furniture,Bank Transfer,78.53,2,0.16,4.0,3.0
+1485,2024-05-07,Peshawar,Electronics,Credit Card,170.84,3,0.36,5.0,3.9
+1486,2024-01-18,Peshawar,Clothing,Credit Card,134.36,1,0.29,5.0,2.4
+1487,2024-10-07,Multan,Electronics,Wallet,60.85,4,0.24,6.0,3.2
+1488,2025-05-04,Quetta,Clothing,Wallet,31.95,4,0.12,3.0,3.5
+1489,2024-08-10,Peshawar,Electronics,Cash,27.13,9,0.33,2.0,2.9
+1490,2024-02-23,Islamabad,Clothing,Credit Card,169.67,9,0.38,2.0,2.3
+1491,2024-02-27,Multan,Grocery,Wallet,77.31,9,0.33,8.0,4.2
+1492,2024-11-18,Lahore,Grocery,Bank Transfer,111.27,7,0.0,8.0,4.0
+1493,2024-12-25,Karachi,Grocery,Bank Transfer,84.55,2,0.25,6.0,4.6
+1494,2024-06-22,Karachi,Furniture,Credit Card,27.43,5,0.02,6.0,3.1
+1495,2024-10-06,Karachi,Electronics,Bank Transfer,21.05,4,0.1,3.0,4.6
+1496,2024-04-23,Islamabad,Electronics,Cash,57.78,8,0.02,2.0,5.0
+1497,2024-10-14,Lahore,Toys,Wallet,61.51,2,0.24,7.0,4.2
+1498,2025-03-06,Multan,Electronics,Wallet,61.48,6,0.27,4.0,3.5
+1499,2024-12-07,Multan,Toys,Wallet,62.82,5,0.05,4.0,4.1
+1500,2024-05-30,Karachi,Furniture,Credit Card,276.9,2,0.15,4.0,3.5
